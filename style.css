@@ -23,7 +23,7 @@ html, body {
 }
 
 .writing_section {
-    color: rgb(176, 121, 73);
+    color: rgb(247, 244, 241);
     background-color: rgb(49, 43, 43);
     padding: 0.5rem;
     border-radius: 0.75rem;
@@ -38,35 +38,67 @@ html, body {
     display: flex;
     align-items: center; 
     justify-content: center;
-    background-color:rgb(176, 121, 73);
+    background-color:rgb(8, 8, 8);
 }
 
 .sign_up_language {
     font-weight: bold;
     font-size: 30px;
-    padding-bottom: 150px;
+    padding-bottom: 90px;
     padding-left: 30px;
-    color: rgb(49, 43, 43);
+    color: #f0a3b0;
 }
 
 #last_name,
 #first_name,
 #password,
 #email,
-#number,
 #confirm_password {
-    background-color: rgb(49, 43, 43);
-    color: pink;
+    background-color: rgb(176, 121, 73);
+    color: rgb(12, 12, 12);
     border-radius: 5px;
     border-style: none;
+    font-size: 18px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: rgb(176, 121, 73);
+    font-weight: bold;
 }
 
 .first_name,
 .last_name,
 .password,
 .email,
-.number,
 .confirm_password {
-    color: rgb(49, 43, 43);
+    display: inline-block;
+    color: rgb(176, 121, 73);
+    font-weight: bold;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.account_section {
+    display: flex;
+    flex-direction: row;
+    margin-left: 8px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: #f0a3b0;
+    font-weight: bold;
+}
+
+.log_in {
+    padding-top: 15px;
+    color: #f0a3b0;
     font-weight: bold;
 }
