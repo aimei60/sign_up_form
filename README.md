@@ -14,9 +14,9 @@ I created a sign-up form after learning about forms provided by **The Odin Proje
 
 ## What I Learned
 
-- How to create and style forms using HTML and CSS  
-- Gained experience with input types, labels, and validation attributes  
-- Learned how to design accessible and user-friendly form layouts
+- How to create and style forms using HTML and CSS.  
+- Gained experience with input types, labels, and validation attributes.
+- Learned how to design accessible and user-friendly form layouts.
 
 ## Preview
 
