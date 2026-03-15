@@ -4,12 +4,12 @@ I created a sign-up form after learning about forms provided by **The Odin Proje
 
 ## Live Demo
 
-[**View the live project here**]( https://aimei60.github.io/sign_up_form/)
+[**View the live project here**](https://aimei60.github.io/sign_up_form/)
 
 ## Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS
 - HTML Forms
 
 ## What I Learned
